@@ -2,4 +2,4 @@
 
 Ceci représente ma formation en autodidacte sur le développement web
 
-Bonne lecture
+Bonne lecture ! 
